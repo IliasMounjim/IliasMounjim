@@ -1,5 +1,5 @@
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://elimounjim.github.io/Portfolio/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/EliMounjim/Resume/blob/main/Illiasse%20software%20Developer%20resume.pdf)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://iliasmounjim.github.io/Portfolio/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/IliasMounjim/Resume/blob/main/Illiasse%20software%20Developer%20resume.pdf)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/illiasse-mounjim-199624170/)
 
 # Hii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
@@ -72,10 +72,10 @@ Comprehensive understanding extends to the **design of database systems**, **MyS
 
 
 # 🔗 Get In Touch
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://elimounjim.github.io/Portfolio/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/EliMounjim/Resume/blob/main/Illiasse%20software%20Developer%20resume.pdf)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://Iliasmounjim.github.io/Portfolio/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/IliasMounjim/Resume/blob/main/Illiasse%20software%20Developer%20resume.pdf)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/illiasse-mounjim-199624170/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/EliMounjim)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/IliasMounjim)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](illiasse.mounjim@outlook.com)
 
 <!--
